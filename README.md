@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=NishantSingh02&color=#dc143c)
+![](https://komarev.com/ghpvc/?username=NishantSingh02&color=dc143c)
 
 <!--
 **NishantSingh02/NishantSingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
