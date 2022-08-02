@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning DSA...
 
-![](https://komarev.com/ghpvc/?username=NishantSingh02&color=blueviolet&style=plastic)
+![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
 <!--
 **NishantSingh02/NishantSingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
