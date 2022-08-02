@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I’m currently learning DSA...
+
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&color=blueviolet&style=plastic)
 
 <!--
