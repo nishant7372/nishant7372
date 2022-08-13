@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
-[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- Wakatime Stats -->
