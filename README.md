@@ -9,7 +9,7 @@
  <img class="img" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NishantSingh02/NishantSingh02/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
 
