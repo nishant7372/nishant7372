@@ -4,8 +4,11 @@
 
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
- <img class="img" height = "450" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=NishantSingh02&theme=dark" />
- <img class="img" height = "450" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
 
