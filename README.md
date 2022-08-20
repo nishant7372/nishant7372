@@ -5,8 +5,8 @@
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=NishantSingh02&theme=dark)](https://git.io/streak-stats" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=NishantSingh02&theme=dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark" />
 </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
