@@ -4,7 +4,7 @@
 
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; flex-direction: row; gap: 10">
+<div style="display: flex; flex-direction: row; gap: 10px">
  <img class="img" style="height: auto; width: 40%;" src="http://github-readme-streak-stats.herokuapp.com?user=NishantSingh02&theme=dark" />
  <img class="img" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark" />
 </div>
