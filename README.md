@@ -6,7 +6,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=NishantSingh02&theme=dark">
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
 
