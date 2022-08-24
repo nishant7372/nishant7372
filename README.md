@@ -4,7 +4,7 @@
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark"> -->
 
-<img width="600px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
+<img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NishantSingh02&theme=dark">
 
