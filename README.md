@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark">
+<!-- <img src = "https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark"> -->
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
 
