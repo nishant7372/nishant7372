@@ -8,6 +8,8 @@
 <a href="https://www.hackerrank.com/nishant7372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nishant7372" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishant7372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nishant7372/" height="30" width="40" /></a>
   &nbsp;
+  &nbsp;
+  &nbsp;
 </p>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark"> -->
