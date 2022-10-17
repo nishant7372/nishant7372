@@ -25,7 +25,9 @@
 
 <!--
 **NishantSingh02/NishantSingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nishant7372" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nishant7372?trk=profile-badge">Nishant Singh</a></div>
+              
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
