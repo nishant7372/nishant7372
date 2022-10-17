@@ -17,8 +17,7 @@
 <img width="50%" src = "https://github-readme-streak-stats.herokuapp.com/?user=NishantSingh02&theme=dark">
 
 <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nishant7372" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/nishant7372?trk=profile-badge">Nishant Singh</a></div>
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NishantSingh02&repo=LeetCode)](https://github.com/anuraghazra/github-readme-stats) -->
               
 <!-- Wakatime Stats -->
