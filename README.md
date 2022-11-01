@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/a3x3k/count.svg" alt=""/></td>
+    <td><img src="https://profile-counter.glitch.me/NishantSingh02/count.svg" alt=""/></td>
   </tr>
 </table>
 
