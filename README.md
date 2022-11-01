@@ -3,14 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
  
- <div align="center"> 
+ <div align="left"> 
  <h2>
  Connect With Me <a target="_blank">
  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
  </a>
  </h2>
 
-<p>
+ <p>
   <a href="https://www.linkedin.com/in/nishant7372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant7372/" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/nishant7372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nishant7372" height="30" width="40" />
