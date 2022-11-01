@@ -2,13 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
- -->
   
- <h2>
+ <h2 align="center">
   Connect With Me <a target="_blank">
   <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
@@ -27,7 +22,6 @@
   &nbsp;
   &nbsp;
   &nbsp;
-</p>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=NishantSingh02&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark"> -->
 
