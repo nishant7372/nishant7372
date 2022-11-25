@@ -1,6 +1,5 @@
 ### &nbsp;Hi there 
-<img src="https://www.funimada.com/assets/images/cards/big/hello-12.gif" height="32px" style="max-width:100%;">
-
+<img src="https://user-images.githubusercontent.com/91368799/203894141-eaf709e4-f466-43cd-baee-fa885ef36adc.gif" height="32px" style="max-width:100%;">
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
