@@ -1,4 +1,5 @@
-### &nbsp;Hi there 👋
+### &nbsp;Hi there 
+<img src="https://tenor.com/view/exercise-my-nabors-totoro-totoro-cute-working-out-gif-12352470" height="32px" style="max-width:100%;">
 
 ![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
