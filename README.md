@@ -1,4 +1,4 @@
-### 👋 Hi there 
+### <h1>👋 Hi there </h1>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -27,6 +27,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<img width="50%" src = "https://github-readme-streak-stats.herokuapp.com/?user=NishantSingh02&theme=dark">
-
-<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark">
+  
+<div style="display: flex; flex-direction: row;">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSingh02&layout=compact&theme=dark" height="220px">
+ <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NishantSingh02&theme=dark" height="220px">
+</div>
