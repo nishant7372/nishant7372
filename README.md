@@ -1,6 +1,5 @@
 ### &nbsp;Hi there 
 <img src="https://user-images.githubusercontent.com/91368799/203894141-eaf709e4-f466-43cd-baee-fa885ef36adc.gif" height="32px" style="max-width:100%;">
-![](https://komarev.com/ghpvc/?username=NishantSingh02&style=plastic)
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
