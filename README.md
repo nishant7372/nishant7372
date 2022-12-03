@@ -3,7 +3,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  <!----------------------------------------------------------------------Connect with me------------------------------------------------------------------------->
-
+<img src="https://komarev.com/ghpvc/?username=NishantSingh02&label=Profile%20views&color=0e75b6&style=plastic" alt="nishant7372" />
 
 <h2 align="left"> <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;"> Connect with me:</h2>
 &nbsp;
