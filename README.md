@@ -23,6 +23,6 @@
 <!------------------------------------------------------------------------ Stats -------------------------------------------------------------------------------->
 &nbsp;&nbsp;
 <div style="display: flex; flex-direction: row;">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nishant7372&layout=compact&theme=dark" height="180px">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nishant7372&layout=compact&theme=radical" height="180px">
  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=nishant7372&theme=dark" height=180px">
 </div>
