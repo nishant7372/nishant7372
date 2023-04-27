@@ -37,7 +37,7 @@
 &nbsp;
 
 <div style="display: flex; flex-direction: row;">
- <img src="https://leetcard.jacoblin.cool/nishant7372?ext=contest" height="180px">
+ <img src="https://leetcard.jacoblin.cool/nishant7372?ext=contest" height="350px">
 </div>
 
 &nbsp;
