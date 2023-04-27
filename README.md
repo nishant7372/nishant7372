@@ -19,18 +19,20 @@
 &nbsp;
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!------------------------------------------------------------------------ Stats -------------------------------------------------------------------------------->
+<!---------------------------------------------------------------------- trophies -------------------------------------------------------------------------------->
 
-<h2 align="left"> 🏆 GitHub Trophies: </h2>
+<h2 align="left"> &nbsp;🏆 GitHub Trophies: </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=nishant7372&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<!------------------------------------------------------------------------ Stats -------------------------------------------------------------------------------->
 
 <div style="display: flex; flex-direction: row;">
 <h2 align="left"> &nbsp;&nbsp; <img src="https://media.giphy.com/media/fapvHdWzoHtYY/giphy.gif" height="32px" style="max-width:100%;">&nbsp;&nbsp; Stats:</h2>
 </div> 
 
-&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=NishantSingh02&label=Profile%20views&color=0e75b6&style=plastic" alt="nishant7372" />
+<img src="https://komarev.com/ghpvc/?username=NishantSingh02&label=Profile%20views&color=0e75b6&style=plastic" alt="nishant7372" width="18%"/>
 
 &nbsp;
 
@@ -38,13 +40,13 @@
  <img src="https://leetcard.jacoblin.cool/nishant7372" height="180px">
 </div>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <div style="display: flex; flex-direction: row;">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishant7372&theme=monokai" height="180px"/>
 </div>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <div style="display: flex; flex-direction: row;">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nishant7372&layout=compact&theme=dark" height="180px"/> 
